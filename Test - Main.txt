@@ -9,3 +9,4 @@
 4.... test from main repo
 
 5... Test from QA local folder
+6.... Test from Repo to QA
